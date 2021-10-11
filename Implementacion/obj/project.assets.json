@@ -8,23 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joven\\.nuget\\packages\\": {}
+    "C:\\Users\\Hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\ProyectoImplementacion\\ProyectoImplementacion\\Implementacion\\Implementacion.csproj",
+      "projectUniqueName": "E:\\Implementacion\\ProyectoImplementacion\\Implementacion\\Implementacion.csproj",
       "projectName": "Implementacion",
-      "projectPath": "C:\\xampp\\htdocs\\ProyectoImplementacion\\ProyectoImplementacion\\Implementacion\\Implementacion.csproj",
-      "packagesPath": "C:\\Users\\joven\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\ProyectoImplementacion\\ProyectoImplementacion\\Implementacion\\obj\\",
+      "projectPath": "E:\\Implementacion\\ProyectoImplementacion\\Implementacion\\Implementacion.csproj",
+      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+      "outputPath": "E:\\Implementacion\\ProyectoImplementacion\\Implementacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\joven\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
@@ -58,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
