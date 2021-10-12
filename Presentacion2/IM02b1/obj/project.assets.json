@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joven\\.nuget\\packages\\": {}
+    "C:\\Users\\Hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02b1\\IM02b1.csproj",
+      "projectUniqueName": "E:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\IM02b1.csproj",
       "projectName": "IM02b1",
-      "projectPath": "C:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02b1\\IM02b1.csproj",
-      "packagesPath": "C:\\Users\\joven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02b1\\obj\\",
+      "projectPath": "E:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\IM02b1.csproj",
+      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+      "outputPath": "E:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\joven\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

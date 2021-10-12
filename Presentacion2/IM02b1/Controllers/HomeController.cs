@@ -23,11 +23,11 @@ namespace IM02a3.Controllers
             return View(model: modelo); 
         }
 
-        public IActionResult Alumno(string nombre, int cuenta, double promedio)
+        public IActionResult Alumnos(string nombreForm, int cuentaForm, double promedioForm)
         {
-            Alumno modelo = new Alumno(nombre, cuenta, promedio);
+            Alumno testAlumno = new Alumno(nombreForm, cuentaForm, promedioForm);
 
-            return View(model: modelo);
+            return View(model: testAlumno);
         }
     }
 }

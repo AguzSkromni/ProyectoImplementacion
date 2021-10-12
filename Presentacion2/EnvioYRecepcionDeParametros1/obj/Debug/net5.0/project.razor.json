@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02a3\\IM02a3.csproj",
+  "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\EnvioYRecepcionDeParametros1\\IM02a3.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,48 +15619,48 @@
   "RootNamespace": "IM02a3",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02a3\\Views\\Home\\Empleado.cshtml",
-      "TargetPath": "Views\\Home\\Empleado.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02a3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02a3\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02a3\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02a3\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\EnvioYRecepcionDeParametros1\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02a3\\Views\\Home\\Suma.cshtml",
-      "TargetPath": "Views\\Home\\Suma.cshtml",
+      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\EnvioYRecepcionDeParametros1\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02a3\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\EnvioYRecepcionDeParametros1\\Views\\Home\\Empleado.cshtml",
+      "TargetPath": "Views\\Home\\Empleado.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02a3\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\EnvioYRecepcionDeParametros1\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\EnvioYRecepcionDeParametros1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\EnvioYRecepcionDeParametros1\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\EnvioYRecepcionDeParametros1\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\joven\\Documents\\MisPruebas\\Presentacion2\\IM02a3\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\EnvioYRecepcionDeParametros1\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\EnvioYRecepcionDeParametros1\\Views\\Home\\Suma.cshtml",
+      "TargetPath": "Views\\Home\\Suma.cshtml",
       "FileKind": "mvc"
     }
   ],
