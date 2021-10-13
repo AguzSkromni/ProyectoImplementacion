@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\IM02b1.csproj",
+  "FilePath": "c:\\xampp\\htdocs\\ProyectoImplementacion\\Presentacion2\\IM02b1\\IM02b1.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,48 +15619,48 @@
   "RootNamespace": "IM02b1",
   "Documents": [
     {
-      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\xampp\\htdocs\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Home\\Alumnos.cshtml",
-      "TargetPath": "Views\\Home\\Alumnos.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Home\\Empleados.cshtml",
-      "TargetPath": "Views\\Home\\Empleados.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\xampp\\htdocs\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\Implementacion\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\xampp\\htdocs\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Home\\Empleados.cshtml",
+      "TargetPath": "Views\\Home\\Empleados.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\xampp\\htdocs\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Home\\Alumnos.cshtml",
+      "TargetPath": "Views\\Home\\Alumnos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\xampp\\htdocs\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\xampp\\htdocs\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\xampp\\htdocs\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\xampp\\htdocs\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\xampp\\htdocs\\ProyectoImplementacion\\Presentacion2\\IM02b1\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
