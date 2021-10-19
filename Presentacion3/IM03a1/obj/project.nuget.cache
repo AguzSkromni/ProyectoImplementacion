@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Et29WlZO//M6/OiFt2WVykK1bZtD1Iq8XpK9PkE9hcXdFYU9w9USbgOxT2LH9dsCQTvdJcK4NJ/nFKTBzRMwlA==",
+  "dgSpecHash": "MpcxFU7Gd2WHbRErnJcl6pWX9hgQ+XtlkGbO9bw4Pzu7xIw4wGNeHmS95KcpV5YaztUjH5TySRC1zzVsPkH0cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\Presentacion3\\IM03a1\\IM03a1.csproj",
+  "projectFilePath": "E:\\Implementacion\\ProyectoImplementacion\\Presentacion3\\IM03a1\\IM03a1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joven\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\joven\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
