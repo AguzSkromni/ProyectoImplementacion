@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\Presentacion3\\IM03a1\\IM03a1.csproj": {}
+    "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\presentacion3\\IM03a1\\IM03a1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\Presentacion3\\IM03a1\\IM03a1.csproj": {
+    "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\presentacion3\\IM03a1\\IM03a1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\Presentacion3\\IM03a1\\IM03a1.csproj",
+        "projectUniqueName": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\presentacion3\\IM03a1\\IM03a1.csproj",
         "projectName": "IM03a1",
-        "projectPath": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\Presentacion3\\IM03a1\\IM03a1.csproj",
+        "projectPath": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\presentacion3\\IM03a1\\IM03a1.csproj",
         "packagesPath": "C:\\Users\\joven\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\Presentacion3\\IM03a1\\obj\\",
+        "outputPath": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\presentacion3\\IM03a1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joven\\AppData\\Roaming\\NuGet\\NuGet.Config"
