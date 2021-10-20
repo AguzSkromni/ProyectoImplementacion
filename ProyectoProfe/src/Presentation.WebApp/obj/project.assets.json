@@ -7764,11 +7764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Presentation.WebApp\\Presentation.WebApp.csproj",
+      "projectUniqueName": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Presentation.WebApp.csproj",
       "projectName": "Presentation.WebApp",
-      "projectPath": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Presentation.WebApp\\Presentation.WebApp.csproj",
+      "projectPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Presentation.WebApp.csproj",
       "packagesPath": "C:\\Users\\joven\\.nuget\\packages\\",
-      "outputPath": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Presentation.WebApp\\obj\\",
+      "outputPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joven\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7783,11 +7783,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Application\\Application.csproj": {
-              "projectPath": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Application\\Application.csproj"
+            "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\Application.csproj": {
+              "projectPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\Application.csproj"
             },
-            "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Infrastructure\\Infrastructure.csproj"
+            "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Application\\Application.csproj": {}
+    "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\Application.csproj": {}
   },
   "projects": {
-    "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Application\\Application.csproj": {
+    "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Application\\Application.csproj",
+        "projectUniqueName": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Application\\Application.csproj",
+        "projectPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\joven\\.nuget\\packages\\",
-        "outputPath": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Application\\obj\\",
+        "outputPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joven\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Domain\\Domain.csproj"
+              "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Domain\\Domain.csproj": {
+    "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\joven\\.nuget\\packages\\",
-        "outputPath": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Domain\\obj\\",
+        "outputPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\joven\\AppData\\Roaming\\NuGet\\NuGet.Config"

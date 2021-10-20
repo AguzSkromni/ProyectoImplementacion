@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YxYBEUYHVY8o8pcnBvevdIE1fUoLQYnNAdkphvUwO/U1Dwv7GYoP6A1/tHTvgQapOj8IEGXPGxoosSPmDnYoog==",
+  "dgSpecHash": "VuNNoCgAaVRupKSAAHo6E/0qaV/2oSJ8vwjnMCBePLyvuUN7GaEhe5TpCq9t5p//PCiAFTvuSHwf7DsQF73b6w==",
   "success": true,
-  "projectFilePath": "E:\\Implementacion\\MisPruebas\\im221e03\\src\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joven\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\joven\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
