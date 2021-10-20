@@ -1,0 +1,14 @@
+E:\Implementacion\MisPruebas\im221e03\src\Application\bin\Debug\net5.0\Application.deps.json
+E:\Implementacion\MisPruebas\im221e03\src\Application\bin\Debug\net5.0\Application.dll
+E:\Implementacion\MisPruebas\im221e03\src\Application\bin\Debug\net5.0\ref\Application.dll
+E:\Implementacion\MisPruebas\im221e03\src\Application\bin\Debug\net5.0\Application.pdb
+E:\Implementacion\MisPruebas\im221e03\src\Application\bin\Debug\net5.0\Domain.dll
+E:\Implementacion\MisPruebas\im221e03\src\Application\bin\Debug\net5.0\Domain.pdb
+E:\Implementacion\MisPruebas\im221e03\src\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+E:\Implementacion\MisPruebas\im221e03\src\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Implementacion\MisPruebas\im221e03\src\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+E:\Implementacion\MisPruebas\im221e03\src\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+E:\Implementacion\MisPruebas\im221e03\src\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+E:\Implementacion\MisPruebas\im221e03\src\Application\obj\Debug\net5.0\Application.dll
+E:\Implementacion\MisPruebas\im221e03\src\Application\obj\Debug\net5.0\ref\Application.dll
+E:\Implementacion\MisPruebas\im221e03\src\Application\obj\Debug\net5.0\Application.pdb
