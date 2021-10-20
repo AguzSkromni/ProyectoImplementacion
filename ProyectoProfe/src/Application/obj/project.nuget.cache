@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KFKOHByBVLBHZXJpuln/F3hbfcds1nWx2G1XGqAYTpHxYiawvPu167HtyPmKaRu/aXYDiEiv/H4+urSbrdjWzw==",
+  "success": true,
+  "projectFilePath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joven\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\joven\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\joven\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
