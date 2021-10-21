@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joven\\.nuget\\packages\\": {}
+    "C:\\Users\\Riskmathics10\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Riskmathics10\\Documents\\GithubNetlify\\Implementacion\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\joven\\.nuget\\packages\\",
-      "outputPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\Riskmathics10\\Documents\\GithubNetlify\\Implementacion\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\Riskmathics10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Riskmathics10\\Documents\\GithubNetlify\\Implementacion\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\joven\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Riskmathics10\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

@@ -33,7 +33,12 @@
                 </ul>
                 <hr>
                 <ul class="nav nav-pills flex-column mb-auto">
-                    <li><a asp-controller="Productos" asp-action="Index" class="nav-link text-white">Productos</a></li>
+
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <li><a asp-controller="Productos" asp-action="Index" class="nav-link text-white">Productos</a></li>
+                    }
+                    
                     <li><a asp-controller="Pacientes" asp-action="Index" class="nav-link text-white">Pacientes</a></li>
                     <li><a asp-controller="Citas" asp-action="Index" class="nav-link text-white">Citas</a></li>
                     <li><a asp-controller="Doctores" asp-action="Index" class="nav-link text-white">Doctores</a></li>
