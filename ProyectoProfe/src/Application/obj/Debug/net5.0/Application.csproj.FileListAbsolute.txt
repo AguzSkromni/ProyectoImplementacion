@@ -23,7 +23,6 @@ E:\Implementacion\ImplementacionMain\ProyectoProfe\src\Application\obj\Debug\net
 E:\Implementacion\ImplementacionMain\ProyectoProfe\src\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
 E:\Implementacion\ImplementacionMain\ProyectoProfe\src\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
 E:\Implementacion\ImplementacionMain\ProyectoProfe\src\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
-E:\Implementacion\ImplementacionMain\ProyectoProfe\src\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
 E:\Implementacion\ImplementacionMain\ProyectoProfe\src\Application\obj\Debug\net5.0\Application.dll
 E:\Implementacion\ImplementacionMain\ProyectoProfe\src\Application\obj\Debug\net5.0\ref\Application.dll
 E:\Implementacion\ImplementacionMain\ProyectoProfe\src\Application\obj\Debug\net5.0\Application.pdb
