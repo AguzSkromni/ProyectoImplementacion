@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Riskmathics10\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Riskmathics10\\.nuget\\packages"
+      "C:\\Users\\joven\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\joven\\.nuget\\packages"
     ]
   }
 }
