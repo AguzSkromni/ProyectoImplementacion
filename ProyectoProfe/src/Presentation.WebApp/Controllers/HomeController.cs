@@ -11,9 +11,10 @@ using Application;
 
 namespace Presentation.WebApp.Controllers
 {
-    //[Authorize]
+    
     public class HomeController : Controller
     {
+        
         private readonly CitasDbContext _citasDbContext;
         public HomeController(IConfiguration configuration)
         {
