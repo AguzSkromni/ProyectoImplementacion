@@ -170,11 +170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Application\\Application.csproj",
+      "projectUniqueName": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Application\\Application.csproj",
+      "projectPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\joven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Application\\obj\\",
+      "outputPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joven\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -189,8 +189,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\Domain.csproj"
+            "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj"
             }
           }
         }
@@ -225,7 +225,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

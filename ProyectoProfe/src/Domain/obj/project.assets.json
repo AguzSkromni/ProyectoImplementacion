@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\Domain.csproj",
+      "projectUniqueName": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\Domain.csproj",
+      "projectPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\joven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\obj\\",
+      "outputPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joven\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

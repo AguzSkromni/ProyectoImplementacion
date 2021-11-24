@@ -62,3 +62,4 @@ C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Infrast
 C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Infrastructure\bin\Debug\net5.0\Domain.dll
 C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Infrastructure\bin\Debug\net5.0\Application.pdb
 C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Infrastructure\bin\Debug\net5.0\Domain.pdb
+E:\Implementacion\ImplementacionMain\ProyectoProfe\src\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete

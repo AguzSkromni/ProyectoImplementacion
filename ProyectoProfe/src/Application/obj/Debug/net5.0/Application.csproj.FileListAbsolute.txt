@@ -54,3 +54,4 @@ C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Applica
 C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Application\obj\Debug\net5.0\Application.dll
 C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Application\obj\Debug\net5.0\ref\Application.dll
 C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Application\obj\Debug\net5.0\Application.pdb
+E:\Implementacion\ImplementacionMain\ProyectoProfe\src\Application\obj\Debug\net5.0\Application.csproj.CopyComplete

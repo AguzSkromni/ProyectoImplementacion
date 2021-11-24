@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J6UwKxd7bX6PxnDOc2R3vLmpnKdot5N7zu1gfvbvEqif25FN89USZgpMOqFGLaY8kUg0om0ZIbKOjpRWLKd2Rw==",
+  "dgSpecHash": "i0vfXemXHjH06Wcq/bj1Od73gx+o2/v/AEfLKkzOqzzcuX6Bm7UxHYIqRVtQUOQ35JtwcL9JLD4CVJjNeBWPlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joven\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Application\\Application.csproj",
+  "projectFilePath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joven\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\joven\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
