@@ -46,3 +46,15 @@ C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\
 C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\obj\Debug\net5.0\Domain.dll
 C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\obj\Debug\net5.0\ref\Domain.dll
 C:\Users\joven\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\bin\Debug\net5.0\Domain.dll
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\bin\Debug\net5.0\Domain.pdb
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\obj\Debug\net5.0\Domain.dll
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\Users\acelv\Documents\GitHub\ProyectoImplementacion\ProyectoProfe\src\Domain\obj\Debug\net5.0\Domain.pdb

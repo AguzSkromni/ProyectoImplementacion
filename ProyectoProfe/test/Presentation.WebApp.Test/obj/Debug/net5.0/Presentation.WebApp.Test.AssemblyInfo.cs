@@ -11,6 +11,14 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Applicat" +
+    "ion", "Application.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain", "Domain.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Infrastr" +
+    "ucture", "Infrastructure.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Presentation.WebApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presenta" +
+    "tion.WebApp", "Presentation.WebApp.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Presentation.WebApp.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

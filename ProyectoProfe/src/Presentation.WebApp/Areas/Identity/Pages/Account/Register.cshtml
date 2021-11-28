@@ -4,11 +4,11 @@
     ViewData["Title"] = "Registrarse";
 }
 
-<h1>@ViewData["Title"]</h1>
+<h1 style="color: white;">@ViewData["Title"]</h1>
 
 <div class="form-signin">
     <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
-        <h1 class="h3 mb-3 fw-normal">@ViewData["Title"]</h1>
+        <h1 class="h3 mb-3 fw-normal" style="color: white;">@ViewData["Title"]</h1>
         <hr />
         <div asp-validation-summary="All" class="text-danger"></div>
         <div class="form-group">
@@ -26,7 +26,7 @@
             <input asp-for="Input.ConfirmPassword" class="form-control" />
             <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
         </div>
-        <button type="submit" class="btn btn-primary">Registrar</button>
+        <button type="submit" class="btn btn-primary" style="color: white;">Registrar</button>
     </form>
 </div>
 

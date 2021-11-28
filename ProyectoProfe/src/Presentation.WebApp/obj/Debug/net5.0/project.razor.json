@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Presentation.WebApp.csproj",
+  "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Presentation.WebApp.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,233 +15619,233 @@
   "RootNamespace": "Presentation.WebApp",
   "Documents": [
     {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pagos\\Create.cshtml",
-      "TargetPath": "Views\\Pagos\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pagos\\Details.cshtml",
-      "TargetPath": "Views\\Pagos\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\_DatatablesScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_DatatablesScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pagos\\Index.cshtml",
-      "TargetPath": "Views\\Pagos\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Productos\\Edit.cshtml",
-      "TargetPath": "Views\\Productos\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pacientes\\Index.cshtml",
-      "TargetPath": "Views\\Pacientes\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Doctores\\Create.cshtml",
-      "TargetPath": "Views\\Doctores\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Citas\\Details.cshtml",
-      "TargetPath": "Views\\Citas\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pacientes\\Create.cshtml",
-      "TargetPath": "Views\\Pacientes\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Productos\\Index.cshtml",
-      "TargetPath": "Views\\Productos\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Citas\\Edit.cshtml",
-      "TargetPath": "Views\\Citas\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Citas\\Details.cshtml",
+      "TargetPath": "Views\\Citas\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pagos\\Index.cshtml",
+      "TargetPath": "Views\\Pagos\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pagos\\Edit.cshtml",
-      "TargetPath": "Views\\Pagos\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pacientes\\Edit.cshtml",
-      "TargetPath": "Views\\Pacientes\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Citas\\Index.cshtml",
-      "TargetPath": "Views\\Citas\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\_DatatablesStylesPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_DatatablesStylesPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Productos\\Details.cshtml",
-      "TargetPath": "Views\\Productos\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pacientes\\Details.cshtml",
-      "TargetPath": "Views\\Pacientes\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Citas\\Create.cshtml",
-      "TargetPath": "Views\\Citas\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Doctores\\Details.cshtml",
-      "TargetPath": "Views\\Doctores\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Productos\\Create.cshtml",
-      "TargetPath": "Views\\Productos\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Doctores\\Index.cshtml",
-      "TargetPath": "Views\\Doctores\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Doctores\\Edit.cshtml",
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Doctores\\Edit.cshtml",
       "TargetPath": "Views\\Doctores\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Productos\\Create.cshtml",
+      "TargetPath": "Views\\Productos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Citas\\Create.cshtml",
+      "TargetPath": "Views\\Citas\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Citas\\Edit.cshtml",
+      "TargetPath": "Views\\Citas\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pacientes\\Create.cshtml",
+      "TargetPath": "Views\\Pacientes\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Doctores\\Index.cshtml",
+      "TargetPath": "Views\\Doctores\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pagos\\Create.cshtml",
+      "TargetPath": "Views\\Pagos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Productos\\Index.cshtml",
+      "TargetPath": "Views\\Productos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pacientes\\Details.cshtml",
+      "TargetPath": "Views\\Pacientes\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Doctores\\Create.cshtml",
+      "TargetPath": "Views\\Doctores\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\_DatatablesScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_DatatablesScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Doctores\\Details.cshtml",
+      "TargetPath": "Views\\Doctores\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Productos\\Edit.cshtml",
+      "TargetPath": "Views\\Productos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pagos\\Edit.cshtml",
+      "TargetPath": "Views\\Pagos\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_StatusMessage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pagos\\Details.cshtml",
+      "TargetPath": "Views\\Pagos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Citas\\Index.cshtml",
+      "TargetPath": "Views\\Citas\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Productos\\Details.cshtml",
+      "TargetPath": "Views\\Productos\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pacientes\\Index.cshtml",
+      "TargetPath": "Views\\Pacientes\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Pacientes\\Edit.cshtml",
+      "TargetPath": "Views\\Pacientes\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\_DatatablesStylesPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_DatatablesStylesPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Presentation.WebApp\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],

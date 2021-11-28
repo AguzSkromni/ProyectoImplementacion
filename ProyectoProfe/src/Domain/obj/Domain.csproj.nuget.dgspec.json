@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj": {}
+    "C:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj": {
+    "C:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\joven\\.nuget\\packages\\",
-        "outputPath": "E:\\Implementacion\\ImplementacionMain\\ProyectoProfe\\src\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\acelv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acelv\\Documents\\GitHub\\ProyectoImplementacion\\ProyectoProfe\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\joven\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\acelv\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
